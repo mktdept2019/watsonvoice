@@ -1,0 +1,2793 @@
+{
+  "name": "test 1",
+  "intents": [
+    {
+      "intent": "OK",
+      "examples": [
+        {
+          "text": "oklahoma"
+        },
+        {
+          "text": "ok"
+        },
+        {
+          "text": "tuition rates for residents of oklahoma"
+        },
+        {
+          "text": "residents of oklahoma"
+        },
+        {
+          "text": "waivers"
+        },
+        {
+          "text": "do you give any waivers"
+        },
+        {
+          "text": "how much do residents of oklahoma have to pay"
+        },
+        {
+          "text": "online marketing degree for residents of oklahoma"
+        },
+        {
+          "text": "tuition waiver"
+        },
+        {
+          "text": "am i eligible for waiver"
+        },
+        {
+          "text": "can i get the tuition waiver"
+        },
+        {
+          "text": "how to get tuition waiver"
+        },
+        {
+          "text": "how can i get the tuition waiver"
+        },
+        {
+          "text": "does utd provide tuition waiver"
+        },
+        {
+          "text": "can utd give me a tuition waiver"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Career-Outcomes",
+      "examples": [
+        {
+          "text": "what jobs can i get after this degree"
+        },
+        {
+          "text": "how will the salary be"
+        },
+        {
+          "text": "salaries"
+        },
+        {
+          "text": "how much salary can i get"
+        },
+        {
+          "text": "what are the job types available post this degree"
+        },
+        {
+          "text": "estimated salary"
+        },
+        {
+          "text": "what is the salary"
+        },
+        {
+          "text": "salary"
+        },
+        {
+          "text": "career"
+        },
+        {
+          "text": "careers"
+        },
+        {
+          "text": "job titles"
+        },
+        {
+          "text": "companies"
+        },
+        {
+          "text": "what are the future job options"
+        },
+        {
+          "text": "job opportunities"
+        },
+        {
+          "text": "job"
+        },
+        {
+          "text": "jobs"
+        },
+        {
+          "text": "placement"
+        },
+        {
+          "text": "income bracket"
+        },
+        {
+          "text": "income"
+        },
+        {
+          "text": "what are the career outcomes"
+        },
+        {
+          "text": "what are the possible career outcomes"
+        },
+        {
+          "text": "career outcomes"
+        },
+        {
+          "text": "what are the jobs available after this degree"
+        },
+        {
+          "text": "what jobs can i get after the marketing degree"
+        },
+        {
+          "text": "what are the possible careers"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Graduate",
+      "examples": [
+        {
+          "text": "ms marketing program"
+        },
+        {
+          "text": "masters"
+        },
+        {
+          "text": "ms"
+        },
+        {
+          "text": "msc"
+        },
+        {
+          "text": "graduate"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Fast-Track",
+      "examples": [
+        {
+          "text": "undergrads"
+        },
+        {
+          "text": "fast track"
+        },
+        {
+          "text": "how many minimum credits hours required to join the fast track degree"
+        },
+        {
+          "text": "how many minimum credits hours required for fast track course"
+        },
+        {
+          "text": "how to take the fast track course"
+        },
+        {
+          "text": "how can i be part of the fast track course"
+        },
+        {
+          "text": "are undergraduates eligible for the fast track degree"
+        },
+        {
+          "text": "how do undergrads take the fast track course"
+        },
+        {
+          "text": "whats the minimum gpa requirement for the fast track course"
+        },
+        {
+          "text": "how will i be eligible for the fast track course"
+        },
+        {
+          "text": "how do i take the fast track course"
+        },
+        {
+          "text": "3.40 gpa"
+        },
+        {
+          "text": "9 credit hours"
+        },
+        {
+          "text": "undergrad"
+        },
+        {
+          "text": "undergraduate"
+        },
+        {
+          "text": "fast track degree"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "gpa",
+      "examples": [
+        {
+          "text": "what is the minimum gpa required"
+        },
+        {
+          "text": "grades"
+        },
+        {
+          "text": "scores"
+        },
+        {
+          "text": "percentages"
+        },
+        {
+          "text": "what are the scores required"
+        },
+        {
+          "text": "what is the gpa required"
+        },
+        {
+          "text": "gpa"
+        },
+        {
+          "text": "what are the gpa requirements"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "ielts",
+      "examples": [
+        {
+          "text": "elts"
+        },
+        {
+          "text": "ielts scores"
+        },
+        {
+          "text": "what is the minimum ielts score required"
+        },
+        {
+          "text": "ielts english proficiency"
+        },
+        {
+          "text": "what are the required ielts scores"
+        },
+        {
+          "text": "what is the average ielts score"
+        },
+        {
+          "text": "ielts"
+        },
+        {
+          "text": "aielts"
+        },
+        {
+          "text": "ilts"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "els",
+      "examples": [
+        {
+          "text": "els"
+        },
+        {
+          "text": "does utd accept els levels"
+        },
+        {
+          "text": "what els level is accepted"
+        },
+        {
+          "text": "what is the minimum els level required"
+        },
+        {
+          "text": "is ELS Language Center accepted"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "gre-or-gmat",
+      "examples": [
+        {
+          "text": "which test is required gre or gmat"
+        },
+        {
+          "text": "utd requires gre or gmat"
+        },
+        {
+          "text": "which test is better gmat or gre"
+        },
+        {
+          "text": "does utd accept gre or gmat"
+        },
+        {
+          "text": "which is accepted gmat or gre"
+        },
+        {
+          "text": "which does utd prefer gmat or gre"
+        },
+        {
+          "text": "which grading is preferred gmat or gre?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "deadlines",
+      "examples": [
+        {
+          "text": "dates"
+        },
+        {
+          "text": "when is the application due date"
+        },
+        {
+          "text": "by when to apply"
+        },
+        {
+          "text": "when is the last date to apply"
+        },
+        {
+          "text": "what are the application deadlines"
+        },
+        {
+          "text": "deadlines"
+        },
+        {
+          "text": "timeline"
+        },
+        {
+          "text": "due"
+        },
+        {
+          "text": "deadline"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "curriculum",
+      "examples": [
+        {
+          "text": "electives"
+        },
+        {
+          "text": "track"
+        },
+        {
+          "text": "plan"
+        },
+        {
+          "text": "degree"
+        },
+        {
+          "text": "what is the curriculum"
+        },
+        {
+          "text": "concentrations"
+        },
+        {
+          "text": "curriculums"
+        },
+        {
+          "text": "degrees"
+        },
+        {
+          "text": "tracks"
+        },
+        {
+          "text": "courses"
+        },
+        {
+          "text": "concentration"
+        },
+        {
+          "text": "curriculum"
+        },
+        {
+          "text": "how many credit hours is the course"
+        },
+        {
+          "text": "credit hours"
+        },
+        {
+          "text": "is the course 36 credit hours"
+        },
+        {
+          "text": "hours"
+        },
+        {
+          "text": "how many hours is the degree"
+        },
+        {
+          "text": "what is the duration of the course"
+        },
+        {
+          "text": "how long is the course"
+        },
+        {
+          "text": "how long does the course take for completion"
+        },
+        {
+          "text": "how long does the degree take for completion"
+        },
+        {
+          "text": "what is the length of the course"
+        },
+        {
+          "text": "credits"
+        },
+        {
+          "text": "what is the degree"
+        },
+        {
+          "text": "how is the degree"
+        },
+        {
+          "text": "what is the degree plan"
+        },
+        {
+          "text": "what is the concentration"
+        },
+        {
+          "text": "how many semesters long is the program"
+        },
+        {
+          "text": "how many semesters long is the marketing major"
+        },
+        {
+          "text": "total number of credit hours"
+        },
+        {
+          "text": "what are the total credit hours for the course"
+        },
+        {
+          "text": "how may credit hours do i have to complete"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "info-sessions",
+      "examples": [
+        {
+          "text": "info session"
+        },
+        {
+          "text": "information session"
+        },
+        {
+          "text": "event"
+        },
+        {
+          "text": "events"
+        },
+        {
+          "text": "live"
+        },
+        {
+          "text": "presentation"
+        },
+        {
+          "text": "presentations"
+        },
+        {
+          "text": "when are the information sessions"
+        },
+        {
+          "text": "when will the info session be held"
+        },
+        {
+          "text": "when is the info session"
+        },
+        {
+          "text": "info sessions"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Internships",
+      "examples": [
+        {
+          "text": "international students"
+        },
+        {
+          "text": "internships"
+        },
+        {
+          "text": "opt"
+        },
+        {
+          "text": "intern"
+        },
+        {
+          "text": "internship"
+        },
+        {
+          "text": "cpt"
+        },
+        {
+          "text": "is internship considered as cpt for international students?"
+        },
+        {
+          "text": "are international students eligible for internships"
+        },
+        {
+          "text": "how many credits can i get for my internship"
+        },
+        {
+          "text": "can i take an internship during this degree"
+        },
+        {
+          "text": "does this degree include internship"
+        },
+        {
+          "text": "can i do an internship during this course"
+        },
+        {
+          "text": "what are the internship opportunities"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Admission",
+      "examples": [
+        {
+          "text": "admission"
+        },
+        {
+          "text": "how much do i have to score on my tests"
+        },
+        {
+          "text": "what do i have to score on my test"
+        },
+        {
+          "text": "what do i have to score"
+        },
+        {
+          "text": "how do i get in"
+        },
+        {
+          "text": "what are my requirements to apply"
+        },
+        {
+          "text": "application"
+        },
+        {
+          "text": "criteria"
+        },
+        {
+          "text": "what are the documents required"
+        },
+        {
+          "text": "documentation"
+        },
+        {
+          "text": "requirements"
+        },
+        {
+          "text": "admit"
+        },
+        {
+          "text": "what are the admit criteria"
+        },
+        {
+          "text": "what is the admission criteria"
+        },
+        {
+          "text": "admissions"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Contact-us",
+      "examples": [
+        {
+          "text": "what is your contact"
+        },
+        {
+          "text": "contact number"
+        },
+        {
+          "text": "who can i speak to"
+        },
+        {
+          "text": "how to book an appointment"
+        },
+        {
+          "text": "call me"
+        },
+        {
+          "text": "how do i call you"
+        },
+        {
+          "text": "whom do i call"
+        },
+        {
+          "text": "whom to book an appointment with"
+        },
+        {
+          "text": "whom do i speak to"
+        },
+        {
+          "text": "who can i contact"
+        },
+        {
+          "text": "email"
+        },
+        {
+          "text": "which email id do i use to ask questions"
+        },
+        {
+          "text": "what is your email id"
+        },
+        {
+          "text": "whom do i send an email to"
+        },
+        {
+          "text": "contact"
+        },
+        {
+          "text": "contact information"
+        },
+        {
+          "text": "contact info"
+        },
+        {
+          "text": "how to contact"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "gre",
+      "examples": [
+        {
+          "text": "gre scores"
+        },
+        {
+          "text": "gre"
+        },
+        {
+          "text": "what are the gre scores required"
+        },
+        {
+          "text": "what is the minimum gre score"
+        },
+        {
+          "text": "gre test"
+        },
+        {
+          "text": "gre exams"
+        },
+        {
+          "text": "gre waiver"
+        },
+        {
+          "text": "what is the average gre score"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "faq",
+      "examples": [
+        {
+          "text": "questions"
+        },
+        {
+          "text": "what are the faqs"
+        },
+        {
+          "text": "knowledge base"
+        },
+        {
+          "text": "faqs"
+        },
+        {
+          "text": "lead me to FAQs"
+        },
+        {
+          "text": "where are the faqs"
+        },
+        {
+          "text": "faq"
+        },
+        {
+          "text": "frequently asked questions"
+        },
+        {
+          "text": "help"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "stem",
+      "examples": [
+        {
+          "text": "eligibility"
+        },
+        {
+          "text": "dual degrees"
+        },
+        {
+          "text": "dual degree"
+        },
+        {
+          "text": "double degrees"
+        },
+        {
+          "text": "stem eligible"
+        },
+        {
+          "text": "eligible"
+        },
+        {
+          "text": "stem"
+        },
+        {
+          "text": "is this degree eligible for stem"
+        },
+        {
+          "text": "is the marketing degree stem"
+        },
+        {
+          "text": "is it a stem degree"
+        },
+        {
+          "text": "is marketing course a stem course"
+        },
+        {
+          "text": "double degree"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Financial-Aid",
+      "examples": [
+        {
+          "text": "financial aids"
+        },
+        {
+          "text": "what are the benefits"
+        },
+        {
+          "text": "loan"
+        },
+        {
+          "text": "interest rates"
+        },
+        {
+          "text": "borrow"
+        },
+        {
+          "text": "loans"
+        },
+        {
+          "text": "FAFSA"
+        },
+        {
+          "text": "financial aid"
+        },
+        {
+          "text": "what are the aids available"
+        },
+        {
+          "text": "what are the aids"
+        },
+        {
+          "text": "which aids are offered"
+        },
+        {
+          "text": "which aids can I avail"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Ambassadors",
+      "examples": [
+        {
+          "text": "how do i contact the student ambassadors"
+        },
+        {
+          "text": "how can i contact the ambassadors"
+        },
+        {
+          "text": "ambassador"
+        },
+        {
+          "text": "student ambassadors"
+        },
+        {
+          "text": "students"
+        },
+        {
+          "text": "who are the student ambassadors"
+        },
+        {
+          "text": "how do i contact students"
+        },
+        {
+          "text": "ambassadors"
+        },
+        {
+          "text": "how can i contact the students"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "prerequisites",
+      "examples": [
+        {
+          "text": "are there any prerequisites"
+        },
+        {
+          "text": "what are the prerequisites"
+        },
+        {
+          "text": "what are the prerequisites to apply"
+        },
+        {
+          "text": "prerequisite"
+        },
+        {
+          "text": "prerequisites"
+        },
+        {
+          "text": "any prior courses required"
+        },
+        {
+          "text": "any pre-required courses"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "veterans",
+      "examples": [
+        {
+          "text": "veteran"
+        },
+        {
+          "text": "veterans"
+        },
+        {
+          "text": "what is the tuition for veterans"
+        },
+        {
+          "text": "out-of-state tuition for veterans"
+        },
+        {
+          "text": "in state tuition for veterans"
+        },
+        {
+          "text": "dependents of veterans"
+        },
+        {
+          "text": "spouse of veterans"
+        },
+        {
+          "text": "child of a veteran"
+        },
+        {
+          "text": "rates for children of veterans"
+        },
+        {
+          "text": "rates for family of veteran"
+        },
+        {
+          "text": "what are the tuition rates for relatives of veterans"
+        },
+        {
+          "text": "how much do veterans have to pay"
+        },
+        {
+          "text": "how much do relatives of veterans have to pay for tuition"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Class-profile",
+      "examples": [
+        {
+          "text": "testimonials"
+        },
+        {
+          "text": "how was the profile"
+        },
+        {
+          "text": "how was the class profile"
+        },
+        {
+          "text": "what is the class profile"
+        },
+        {
+          "text": "makeup"
+        },
+        {
+          "text": "ethnicity"
+        },
+        {
+          "text": "minority"
+        },
+        {
+          "text": "age"
+        },
+        {
+          "text": "gender"
+        },
+        {
+          "text": "demographic"
+        },
+        {
+          "text": "diversity"
+        },
+        {
+          "text": "countries"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "gmat",
+      "examples": [
+        {
+          "text": "gmat"
+        },
+        {
+          "text": "what are the gmat scores required"
+        },
+        {
+          "text": "what were the previous gmat scores"
+        },
+        {
+          "text": "what are the minimum gmat scores required"
+        },
+        {
+          "text": "gmat tests"
+        },
+        {
+          "text": "gmat exams"
+        },
+        {
+          "text": "what is the average gmat score"
+        },
+        {
+          "text": "does utd give a gmat waiver"
+        },
+        {
+          "text": "gmat waiver"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Apply",
+      "examples": [
+        {
+          "text": "where to fill my application"
+        },
+        {
+          "text": "what is the application process"
+        },
+        {
+          "text": "applications"
+        },
+        {
+          "text": "is there any application process"
+        },
+        {
+          "text": "how can i apply"
+        },
+        {
+          "text": "how to apply"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "transcripts",
+      "examples": [
+        {
+          "text": "are transcripts mandatory"
+        },
+        {
+          "text": "degree"
+        },
+        {
+          "text": "is the degree required"
+        },
+        {
+          "text": "degrees required"
+        },
+        {
+          "text": "transcripts"
+        },
+        {
+          "text": "are transcripts required"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "tuition",
+      "examples": [
+        {
+          "text": "what are the expenses"
+        },
+        {
+          "text": "how much does the tuition cost"
+        },
+        {
+          "text": "what is the tuition"
+        },
+        {
+          "text": "how can i know my cost"
+        },
+        {
+          "text": "how can i find the tuition amount"
+        },
+        {
+          "text": "where can i find the tuition amount"
+        },
+        {
+          "text": "how much do i have to pay"
+        },
+        {
+          "text": "cost"
+        },
+        {
+          "text": "international student fees"
+        },
+        {
+          "text": "how to estimate tuition"
+        },
+        {
+          "text": "how much is the out of state tuition"
+        },
+        {
+          "text": "what is the instate tuition"
+        },
+        {
+          "text": "what are the fees"
+        },
+        {
+          "text": "what is the cost for the second semester"
+        },
+        {
+          "text": "what is the cost for the 1st semester"
+        },
+        {
+          "text": "what is the cost for the fall semester"
+        },
+        {
+          "text": "how much do i have to pay for 3 semesters"
+        },
+        {
+          "text": "what is the fee"
+        },
+        {
+          "text": "how much is the fee"
+        },
+        {
+          "text": "finances"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Mailing-add",
+      "examples": [
+        {
+          "text": "how do i send documents"
+        },
+        {
+          "text": "where to mail transcripts"
+        },
+        {
+          "text": "mail"
+        },
+        {
+          "text": "what is the mailing address"
+        },
+        {
+          "text": "mailing address"
+        },
+        {
+          "text": "address"
+        },
+        {
+          "text": "where to send documents"
+        },
+        {
+          "text": "how do i mail documents"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "toefl",
+      "examples": [
+        {
+          "text": "toefl proficiency test"
+        },
+        {
+          "text": "toefl english proficiency"
+        },
+        {
+          "text": "toeffil"
+        },
+        {
+          "text": "toefl score"
+        },
+        {
+          "text": "toeffel"
+        },
+        {
+          "text": "toeffl"
+        },
+        {
+          "text": "toefil"
+        },
+        {
+          "text": "teffl"
+        },
+        {
+          "text": "toefl"
+        },
+        {
+          "text": "toefl scores"
+        },
+        {
+          "text": "what is the average toefl score"
+        },
+        {
+          "text": "what is the minimum toefl score required"
+        },
+        {
+          "text": "toefl test"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "undergrad",
+      "examples": [
+        {
+          "text": "bachelor's"
+        },
+        {
+          "text": "bsc"
+        },
+        {
+          "text": "bs"
+        },
+        {
+          "text": "bachelors"
+        },
+        {
+          "text": "undergraduate"
+        },
+        {
+          "text": "undergrad"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "online",
+      "examples": [
+        {
+          "text": "distance"
+        },
+        {
+          "text": "distance learning"
+        },
+        {
+          "text": "can i take the course online"
+        },
+        {
+          "text": "do you give distance classes"
+        },
+        {
+          "text": "does utd provide online degree"
+        },
+        {
+          "text": "online class"
+        },
+        {
+          "text": "marketing online degree"
+        },
+        {
+          "text": "online degree for marketing"
+        },
+        {
+          "text": "online classes for ms degree"
+        },
+        {
+          "text": "online classes for marketing course"
+        },
+        {
+          "text": "can i take online classes"
+        },
+        {
+          "text": "Online classes"
+        },
+        {
+          "text": "web"
+        },
+        {
+          "text": "remote"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "toefl-or-ielts",
+      "examples": [
+        {
+          "text": "do i have to take ielts or toefl"
+        },
+        {
+          "text": "toefl or ielts"
+        },
+        {
+          "text": "toeffel or aielts"
+        },
+        {
+          "text": "toeffl or aielts"
+        },
+        {
+          "text": "which test is required toefl or ielts"
+        },
+        {
+          "text": "teffel or ielts"
+        },
+        {
+          "text": "toefill or ielts"
+        },
+        {
+          "text": "utd prefers toefl or ielts"
+        },
+        {
+          "text": "toeffel or elts"
+        },
+        {
+          "text": "which test is better toefl or ielts"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "scholarship",
+      "examples": [
+        {
+          "text": "scholarship"
+        },
+        {
+          "text": "what are the scholarships offered"
+        },
+        {
+          "text": "are there scholarships for international students"
+        },
+        {
+          "text": "awards"
+        },
+        {
+          "text": "what are the gift aids"
+        },
+        {
+          "text": "what are the scholarships available"
+        },
+        {
+          "text": "funding"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "pte",
+      "examples": [
+        {
+          "text": "what score does utd accept for pte"
+        },
+        {
+          "text": "minimum score for pte"
+        },
+        {
+          "text": "does utd accept pte"
+        },
+        {
+          "text": "is pte score accepted"
+        },
+        {
+          "text": "what score is required on pte"
+        },
+        {
+          "text": "what is the minimum score required for pte"
+        },
+        {
+          "text": "pte accepted score"
+        },
+        {
+          "text": "Pearson Test of English Academic"
+        },
+        {
+          "text": "pte"
+        }
+      ],
+      "description": ""
+    }
+  ],
+  "entities": [],
+  "language": "en",
+  "metadata": {
+    "api_version": {
+      "major_version": "v1",
+      "minor_version": "2018-09-20"
+    }
+  },
+  "description": "",
+  "dialog_nodes": [
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I think you are asking the same question I just answered, however if you meant something else please add some additional keywords to help me understand better."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_8_1553456505867",
+      "metadata": {},
+      "conditions": "#gmat",
+      "dialog_node": "node_13_1554486315370"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I think you are asking the same question I just answered, however if you meant something else please add some additional keywords to help me understand better."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_12_1553459053979",
+      "metadata": {},
+      "conditions": "#transcripts",
+      "dialog_node": "node_10_1554486268575"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I think you are asking the same question I just answered, however if you meant something else please add some additional keywords to help me understand better."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_20_1553461333977",
+      "metadata": {},
+      "conditions": "#gre-or-gmat",
+      "dialog_node": "node_4_1554486079449"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I think you are asking the same question I just answered, however if you meant something else please add some additional keywords to help me understand better."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_2_1553453207358",
+      "metadata": {},
+      "conditions": "#Financial-Aid",
+      "dialog_node": "node_29_1554486610549"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I think you are asking the same question I just answered, however if you meant something else please add some additional keywords to help me understand better."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_9_1553453228043",
+      "metadata": {},
+      "conditions": "#Apply",
+      "dialog_node": "node_22_1554486507806"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I think you are asking the same question I just answered, however if you meant something else please add some additional keywords to help me understand better."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_21_1553461336556",
+      "metadata": {},
+      "conditions": "#toefl-or-ielts",
+      "dialog_node": "node_3_1554486054053"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "still same response"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_2_1553449011371",
+      "metadata": {},
+      "conditions": "#curriculum",
+      "dialog_node": "node_1_1554482571092",
+      "previous_sibling": "node_3_1554481972566"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Our MS MKT degree has 6 career-enhancing tracks and more than 60 electives to choose from. The program totals 36 semester-credit-hours. Our classes are offered on-campus in the evening (many are available online and the entire degree can be completed online) and are especially suitable for students working full-time or part-time jobs. For degree plan information, please click <a href='https://jindal.utdallas.edu/marketing/ms-marketing/curriculum/'> here</a>\n"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_2_1553449011371",
+      "disabled": true,
+      "metadata": {},
+      "conditions": "#curriculum",
+      "dialog_node": "node_1_1554480470482",
+      "previous_sibling": "node_1_1554482571092"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "rephrase"
+              }
+            ],
+            "response_type": "text"
+          }
+        ]
+      },
+      "parent": "node_2_1553449011371",
+      "disabled": true,
+      "metadata": {},
+      "conditions": "#curriculum",
+      "dialog_node": "node_2_1554480525885",
+      "previous_sibling": "node_1_1554480470482"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I think you are asking the same question I just answered, however if you meant something else please add some additional keywords to help me understand better."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_2_1553449011371",
+      "metadata": {},
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "user_input",
+        "dialog_node": "node_1_1554482571092"
+      },
+      "conditions": "#curriculum",
+      "dialog_node": "node_3_1554481972566"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I think you are asking the same question I just answered, however if you meant something else please add some additional keywords to help me understand better."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_3_1553453210920",
+      "metadata": {},
+      "conditions": "#faq",
+      "dialog_node": "node_28_1554486594047"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I think you are asking the same question I just answered, however if you meant something else please add some additional keywords to help me understand better."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_5_1553456497785",
+      "metadata": {},
+      "conditions": "#ielts",
+      "dialog_node": "node_16_1554486368573"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I think you are asking the same question I just answered, however if you meant something else please add some additional keywords to help me understand better."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_5_1553451571547",
+      "metadata": {},
+      "conditions": "#Admission",
+      "dialog_node": "node_2_1554485988078"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I think you are asking the same question I just answered, however if you meant something else please add some additional keywords to help me understand better."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1554566893493",
+      "metadata": {},
+      "conditions": "#Internships",
+      "dialog_node": "node_2_1554566893513"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I think you are asking the same question I just answered, however if you meant something else please add some additional keywords to help me understand better."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_13_1553459056863",
+      "metadata": {},
+      "conditions": "#toefl",
+      "dialog_node": "node_9_1554486252841"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I think you are asking the same question I just answered, however if you meant something else please add some additional keywords to help me understand better."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_11_1553459051257",
+      "metadata": {},
+      "conditions": "#tuition",
+      "dialog_node": "node_11_1554486283569"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I think you are asking the same question I just answered, however if you meant something else please add some additional keywords to help me understand better."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_4_1553456495402",
+      "metadata": {},
+      "conditions": "#info-sessions",
+      "dialog_node": "node_17_1554486384797"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I think you are asking the same question I just answered, however if you meant something else please add some additional keywords to help me understand better."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1553453222029",
+      "metadata": {},
+      "conditions": "#Class-profile",
+      "dialog_node": "node_24_1554486538146"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I think you are asking the same question I just answered, however if you meant something else please add some additional keywords to help me understand better."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_8_1553453224515",
+      "metadata": {},
+      "conditions": "#Career-Outcomes",
+      "dialog_node": "node_23_1554486520524"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I think you are asking the same question I just answered, however if you meant something else please add some additional keywords to help me understand better."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_5_1553453216644",
+      "metadata": {},
+      "conditions": "#deadlines",
+      "dialog_node": "node_26_1554486568207"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I think you are asking the same question I just answered, however if you meant something else please add some additional keywords to help me understand better."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_16_1553459065111",
+      "metadata": {},
+      "conditions": "#pte",
+      "dialog_node": "node_6_1554486162819"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I think you are asking the same question I just answered, however if you meant something else please add some additional keywords to help me understand better."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_15_1553459062172",
+      "metadata": {},
+      "conditions": "#scholarship",
+      "dialog_node": "node_7_1554486177828"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I think you are asking the same question I just answered, however if you meant something else please add some additional keywords to help me understand better."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_6_1553456500460",
+      "metadata": {},
+      "conditions": "#gre",
+      "dialog_node": "node_15_1554486347155"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I think you are asking the same question I just answered, however if you meant something else please add some additional keywords to help me understand better."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_14_1553459059510",
+      "metadata": {},
+      "conditions": "#stem",
+      "dialog_node": "node_8_1554486234053"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I think you are asking the same question I just answered, however if you meant something else please add some additional keywords to help me understand better."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_4_1553453213579",
+      "metadata": {},
+      "conditions": "#els",
+      "dialog_node": "node_27_1554486581398"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I think you are asking the same question I just answered, however if you meant something else please add some additional keywords to help me understand better."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_17_1553459067718",
+      "metadata": {},
+      "conditions": "#prerequisites",
+      "dialog_node": "node_5_1554486120129"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I think you are asking the same question I just answered, however if you meant something else please add some additional keywords to help me understand better."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_6_1553453219396",
+      "metadata": {},
+      "conditions": "#Contact-us",
+      "dialog_node": "node_25_1554486551326"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I think you are asking the same question I just answered, however if you meant something else please add some additional keywords to help me understand better."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1553456487421",
+      "metadata": {},
+      "conditions": "#online",
+      "dialog_node": "node_20_1554486464628"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I think you are asking the same question I just answered, however if you meant something else please add some additional keywords to help me understand better."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_10_1553459048214",
+      "metadata": {},
+      "conditions": "#veterans",
+      "dialog_node": "node_12_1554486297085"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I think you are asking the same question I just answered, however if you meant something else please add some additional keywords to help me understand better."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_2_1553456490058",
+      "metadata": {},
+      "conditions": "#OK",
+      "dialog_node": "node_19_1554486438092"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I think you are asking the same question I just answered, however if you meant something else please add some additional keywords to help me understand better."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_3_1554567882856",
+      "metadata": {},
+      "conditions": "#Fast-Track",
+      "dialog_node": "node_4_1554567882881"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I think you are asking the same question I just answered, however if you meant something else please add some additional keywords to help me understand better."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_10_1553453230696",
+      "metadata": {},
+      "conditions": "#Ambassadors",
+      "dialog_node": "node_21_1554486484238"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I think you are asking the same question I just answered, however if you meant something else please add some additional keywords to help me understand better."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_3_1553456492769",
+      "metadata": {},
+      "conditions": "#Mailing-add",
+      "dialog_node": "node_18_1554486405005"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I think you are asking the same question I just answered, however if you meant something else please add some additional keywords to help me understand better."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1553456503258",
+      "metadata": {},
+      "conditions": "#gpa",
+      "dialog_node": "node_14_1554486333891"
+    },
+    {
+      "type": "standard",
+      "title": "gpa",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Your cumulative GPA will be used as part of the admission committee's review.  Currently, the average admitted GPA is 3.3.  If lower than the average we look at other factors. \nFor more information, please click <a href='https://jindal.utdallas.edu/admission-requirements/masters/'> here</a>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "metadata": {},
+      "conditions": "#gpa",
+      "dialog_node": "node_7_1553456503258",
+      "previous_sibling": "node_8_1553456505867"
+    },
+    {
+      "type": "standard",
+      "title": "undergrad",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I'm sorry, information regarding this program will be uploaded soon. Till then please feel free to view the website <a href='https://jindal.utdallas.edu/marketing/bs-marketing/'> here</a>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "metadata": {},
+      "conditions": "#undergrad",
+      "dialog_node": "node_4_1553451127287",
+      "previous_sibling": "node_3_1553450928336"
+    },
+    {
+      "type": "standard",
+      "title": "tuition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "To estimate your cost of attendance, including cost of living, for two semesters, please click <a href='https://www.utdallas.edu/finaid/calculator/'> here</a>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "metadata": {},
+      "conditions": "#tuition",
+      "dialog_node": "node_11_1553459051257",
+      "previous_sibling": "node_12_1553459053979"
+    },
+    {
+      "type": "standard",
+      "title": "prerequisites",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "The MS MKT program has no course prerequisites. Students may apply with any undergraduate degree. \nFor more information, please click <a href='https://jindal.utdallas.edu/admission-requirements/masters/'> here</a>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "metadata": {},
+      "conditions": "#prerequisites",
+      "dialog_node": "node_17_1553459067718",
+      "previous_sibling": "node_20_1553461333977"
+    },
+    {
+      "type": "standard",
+      "title": "Internships",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Internships may be taken for up to 3 credit hours.  Students must be registered with the Career Center's Handshake to apply.  International students can only do an internship after completing 2 long semesters (fall and spring).   For more information, please go here. \nFor information about internship placement rates, please go <a href='https://jindal.utdallas.edu/marketing/ms-marketing/career-outcomes/'> here</a>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "metadata": {},
+      "conditions": "#Internships",
+      "dialog_node": "node_1_1554566893493",
+      "previous_sibling": "node_2_1553453207358"
+    },
+    {
+      "type": "standard",
+      "title": "Career",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "The MS in Marketing degree can help with both career advancement and earning potential.  National statistics show that a Master’s degree can on average increase working graduate salaries by 15%. \nTo see job statistics and placement data please see our <a href='https://jindal.utdallas.edu/marketing/ms-marketing/career-outcomes/'> career outcomes page</a>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "metadata": {},
+      "conditions": "#Career-Outcomes",
+      "dialog_node": "node_8_1553453224515",
+      "previous_sibling": "node_9_1553453228043"
+    },
+    {
+      "type": "standard",
+      "title": "gre/gmat",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Our program has no preference between the GMAT or the GRE. We accept both, for details on the exams please visit the <a href='https://jindal.utdallas.edu/admission-requirements/masters/'> link</a>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "metadata": {},
+      "conditions": "#gre-or-gmat",
+      "dialog_node": "node_20_1553461333977",
+      "previous_sibling": "node_21_1553461336556"
+    },
+    {
+      "type": "standard",
+      "title": "Admission",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Students may apply with any undergraduate degree.  No work experience is necessary. For more information about admissions requirements, please click <a href='https://jindal.utdallas.edu/admission-requirements/masters/'> here</a>"
+              },
+              {
+                "text": ""
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "metadata": {},
+      "conditions": "#Admission",
+      "dialog_node": "node_5_1553451571547",
+      "previous_sibling": "node_2_1553449011371"
+    },
+    {
+      "type": "standard",
+      "title": "financial aid",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Loans apply only to U.S. citizens and permanent residents only:  for information about available financial aid programs, please click <a href='https://www.utdallas.edu/finaid/aid-programs/'> here</a>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "metadata": {},
+      "conditions": "#Financial-Aid",
+      "dialog_node": "node_2_1553453207358",
+      "previous_sibling": "node_3_1553453210920"
+    },
+    {
+      "type": "standard",
+      "title": "info session",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "To view our recorded infosessions or to sign-up for a live online Q & A session, please please click <a href='https://jindal.utdallas.edu/marketing/ms-marketing/video-introduction/'> here</a>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "metadata": {},
+      "conditions": "#info-sessions",
+      "dialog_node": "node_4_1553456495402",
+      "previous_sibling": "node_5_1553456497785"
+    },
+    {
+      "type": "standard",
+      "title": "curriculum",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Our MS MKT degree has 6 career-enhancing tracks and more than 60 electives to choose from. The program totals 36 semester-credit-hours. Our classes are offered on-campus in the evening (many are available online and the entire degree can be completed online) and are especially suitable for students working full-time or part-time jobs. For degree plan information, please click <a href='https://jindal.utdallas.edu/marketing/ms-marketing/curriculum/'> here</a>\n"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "metadata": {
+        "_customization": {
+          "mcr": false
+        }
+      },
+      "conditions": "#curriculum",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_2_1553449011371",
+      "digress_out": "allow_all",
+      "previous_sibling": "Welcome"
+    },
+    {
+      "type": "standard",
+      "title": "graduate",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "You can ask various questions regarding the MS in Marketing program: the curriculum, tuition costs, class profiles salary outcomes, the application processes and many more."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "metadata": {},
+      "conditions": "#Graduate",
+      "dialog_node": "node_3_1553450928336",
+      "previous_sibling": "node_5_1553451571547"
+    },
+    {
+      "type": "standard",
+      "title": "Fast Track",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "The Fast Track in MS Marketing allows UTD undergraduate students  to start on their MS Marketing degree before graduation, saving time and money Students meeting the eligibility requirements can enter our program without a GMAT or GRE score. \nFor more information, please go <a href='https://jindal.utdallas.edu/marketing/fast-track/'> here</a>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "metadata": {},
+      "conditions": "#Fast-Track",
+      "dialog_node": "node_3_1554567882856",
+      "previous_sibling": "node_1_1554566893493"
+    },
+    {
+      "type": "standard",
+      "title": "transcripts",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Students may apply with unofficial transcripts.  However, no admitted student will be allowed to register for classes until UTD receives the official transcripts. \nFor more information please click<a href='https://jindal.utdallas.edu/admission-requirements/masters/'> here</a>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "metadata": {},
+      "conditions": "#transcripts",
+      "dialog_node": "node_12_1553459053979",
+      "previous_sibling": "node_13_1553459056863"
+    },
+    {
+      "type": "standard",
+      "title": "veterans",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Under the Choice Act, qualified veterans, spouses, and dependents are eligible for in-state tuition at UTD regardless of their state of residence.\nFor more information, please click <a href='https://utdallas.edu/finaid/aid-programs/veterans-benefits/federal-benefits/va-faq/'> here</a>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "metadata": {},
+      "conditions": "#veterans",
+      "dialog_node": "node_10_1553459048214",
+      "previous_sibling": "node_11_1553459051257"
+    },
+    {
+      "type": "standard",
+      "title": "mailing add",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Please have official transcripts mailed to: The University of Texas at Dallas, Admission & Enrollment Services, 800 W. Campbell Road (ROC 11), Richardson, TX  75080-3021. Please click <a href='https://jindal.utdallas.edu/admission-requirements/masters/'> here</a> "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "metadata": {},
+      "conditions": "#Mailing-add",
+      "dialog_node": "node_3_1553456492769",
+      "previous_sibling": "node_4_1553456495402"
+    },
+    {
+      "type": "standard",
+      "title": "Contact us",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "For any other  questions, please email msmarketing\\@utdallas.edu.   You can also request more information by clicking <a href='https://jindal.utdallas.edu/marketing/ms-marketing/'> here</a>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "metadata": {},
+      "conditions": "#Contact-us",
+      "dialog_node": "node_6_1553453219396",
+      "previous_sibling": "node_7_1553453222029"
+    },
+    {
+      "type": "standard",
+      "title": "Class Profile",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Our MS Marketing students represent a wide range of experiences, ages, nationalities, and career goals. The strength of our program comes from the diversity and quality of our student body, faculty, and school. \nFor student profile data about MS MKT students,please click <a href='https://jindal.utdallas.edu/marketing/ms-marketing/class-profile/'> here</a>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "metadata": {},
+      "conditions": "#Class-profile",
+      "dialog_node": "node_7_1553453222029",
+      "previous_sibling": "node_8_1553453224515"
+    },
+    {
+      "type": "standard",
+      "title": "els",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Completion of Level 112 at an ELS Language Center is accepted.\nFor more information, please click <a href='https://www.utdallas.edu/admissions/graduate/international-students/english-proficiency/'> here</a>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "metadata": {},
+      "conditions": "#els",
+      "dialog_node": "node_4_1553453213579",
+      "previous_sibling": "node_5_1553453216644"
+    },
+    {
+      "type": "standard",
+      "title": "scholarship",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "To view and apply for graduate scholarships, please click on the link below. You must have at least submitted your application before you can apply for a scholarship <a href='https://jindal.utdallas.edu/admission-requirements/masters/'> link</a>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "metadata": {},
+      "conditions": "#scholarship",
+      "dialog_node": "node_15_1553459062172",
+      "previous_sibling": "node_16_1553459065111"
+    },
+    {
+      "type": "standard",
+      "title": "stem",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "MS Marketing is NOT a STEM program.  Some students  pursue double-degrees, combining MS MKT with a STEM-eligible MS program.  For a list of STEM-eligible programs, please click <a href='https://jindal.utdallas.edu/masters-programs/'> here</a>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "metadata": {},
+      "conditions": "#stem",
+      "dialog_node": "node_14_1553459059510",
+      "previous_sibling": "node_15_1553459062172"
+    },
+    {
+      "type": "standard",
+      "title": "ielts",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "IELTS minimum score: 6.5. \nFor more information, please click <a href='https://www.utdallas.edu/admissions/graduate/international-students/english-proficiency/'> here</a>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "metadata": {},
+      "conditions": "#ielts",
+      "dialog_node": "node_5_1553456497785",
+      "previous_sibling": "node_6_1553456500460"
+    },
+    {
+      "type": "standard",
+      "title": "toefl",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "TOEFL minimum scores: 80 (Internet-based test); 550 (paper-based test). \nFor more information, please click <a href='https://www.utdallas.edu/admissions/graduate/international-students/english-proficiency/'> here</a>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "metadata": {},
+      "conditions": "#toefl",
+      "dialog_node": "node_13_1553459056863",
+      "previous_sibling": "node_14_1553459059510"
+    },
+    {
+      "type": "standard",
+      "title": "faq",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "For answers to our most frequently asked questions, please click <a href='https://jindal.utdallas.edu/faq/#ms-marketing'> here</a>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "metadata": {},
+      "conditions": "#faq",
+      "dialog_node": "node_3_1553453210920",
+      "previous_sibling": "node_4_1553453213579"
+    },
+    {
+      "type": "standard",
+      "title": "pte",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "PTE minimum score: 67\nFor more information, please click <a href='https://www.utdallas.edu/admissions/graduate/international-students/english-proficiency/'> here</a>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "metadata": {},
+      "conditions": "#pte",
+      "dialog_node": "node_16_1553459065111",
+      "previous_sibling": "node_17_1553459067718"
+    },
+    {
+      "type": "standard",
+      "title": "Deadlines",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Fall semester application deadline:  May 1.  \nSpring semester deadline:  October 1.  \nSummer semester deadline:  March 1.  \nFor more information, please click <a href='https://www.utdallas.edu/admissions/graduate/steps-to-admission/fees-and-deadlines/#application-deadlines'> here</a>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "metadata": {},
+      "conditions": "#deadlines",
+      "dialog_node": "node_5_1553453216644",
+      "previous_sibling": "node_6_1553453219396"
+    },
+    {
+      "type": "standard",
+      "title": "Ambassadors",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Our M.S. in Marketing has several student ambassadors chartered to provide help and information via email for new or prospective students on various topics, including the Dallas environment, housing, living expenses, academic and social life. To contact one of our student ambassadors, please click <a href='https://jindal.utdallas.edu/marketing/ms-marketing/student-ambassadors/'> here</a>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "metadata": {},
+      "conditions": "#Ambassadors",
+      "dialog_node": "node_10_1553453230696",
+      "previous_sibling": "node_1_1553456487421"
+    },
+    {
+      "type": "standard",
+      "title": "gmat",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "The average admitted GMAT score is 600. Our code is: ZTZPQ23.  This requirement may be waived if a student has a cumulative GPA of 3.4 or better from an AACSB school. \nFor more information, please click <a href='https://jindal.utdallas.edu/admission-requirements/masters/'> here</a>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "metadata": {},
+      "conditions": "#gmat",
+      "dialog_node": "node_8_1553456505867",
+      "previous_sibling": "node_10_1553459048214"
+    },
+    {
+      "type": "standard",
+      "title": "online",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "The MS in Marketing can be completed entirely online, the online only option has the same five core courses and over 20 online elective courses to choose from. \nFor more information, please click <a href='https://jindal.utdallas.edu/marketing/ms-marketing/online-marketing-degree/'> here</a>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "metadata": {},
+      "conditions": "#online",
+      "dialog_node": "node_1_1553456487421",
+      "previous_sibling": "node_2_1553456490058"
+    },
+    {
+      "type": "standard",
+      "title": "Anything else",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I'm sorry but I didn't quite get that. Could you please provide me with some additional detail or reword the question."
+              },
+              {
+                "text": "I'm sorry but I still didn't get that. As a Chatbot my ability to answer some questions is limited. Please contact the M.S. In Marketing program and send them your question for an accurate response msmarketing\\@utdallas.edu"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "metadata": {},
+      "conditions": "anything_else",
+      "dialog_node": "Anything else",
+      "previous_sibling": "node_3_1554567882856"
+    },
+    {
+      "type": "standard",
+      "title": "Apply",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "For details or to start your application, please click <a href='https://utdallasapp.force.com/TX_SiteLogin?startURL=%2FTargetX_Portal__PB'> here</a>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "metadata": {},
+      "conditions": "#Apply",
+      "dialog_node": "node_9_1553453228043",
+      "previous_sibling": "node_10_1553453230696"
+    },
+    {
+      "type": "standard",
+      "title": "ok",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "UTD allows students who are residents of Oklahoma to pay the Texas in-state tuition cost plus $30 per credit hour. In order to be eligible for the waiver at UT Dallas, you must be an Oklahoma resident working on your first bachelor’s degree or your graduate degree. \nFor more information, please click <a href='https://jindal.utdallas.edu/marketing/ms-marketing/online-marketing-degree/'> here</a>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "metadata": {},
+      "conditions": "#OK",
+      "dialog_node": "node_2_1553456490058",
+      "previous_sibling": "node_3_1553456492769"
+    },
+    {
+      "type": "standard",
+      "title": "toefl/ielts",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Our program has no preference between TOEFL or IELTS. We accept both, for details on the exams please visit the <a href='https://jindal.utdallas.edu/admission-requirements/masters/'> link</a>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "metadata": {},
+      "conditions": "#toefl-or-ielts",
+      "dialog_node": "node_21_1553461336556",
+      "previous_sibling": "node_4_1553451127287"
+    },
+    {
+      "type": "standard",
+      "title": "gre",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "The average admitted GRE score is 308. Our code is: R6897. This requirement may be waived if a student has a cumulative GPA of 3.4 or better from an AACSB school. \nFor more information, please click <a href='https://jindal.utdallas.edu/admission-requirements/masters/'> here</a>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "metadata": {},
+      "conditions": "#gre",
+      "dialog_node": "node_6_1553456500460",
+      "previous_sibling": "node_7_1553456503258"
+    },
+    {
+      "type": "standard",
+      "title": "Welcome",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Hi! Welcome to the M.S. in Marketing Program at the Naveen Jindal School of Management. Thank you for contacting us. Please type in your question below to proceed with using our Chatbot."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "metadata": {},
+      "conditions": "welcome",
+      "dialog_node": "Welcome"
+    }
+  ],
+  "workspace_id": "eca0cba0-11b5-4949-9df5-a9d1369fce4b",
+  "counterexamples": [],
+  "system_settings": {
+    "tooling": {
+      "store_generic_responses": true
+    },
+    "spelling_auto_correct": true
+  },
+  "learning_opt_out": false,
+  "status": "Available"
+}
